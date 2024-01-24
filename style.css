@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: blueviolet;
+
+}
+nav {
+    background-color: rgb(255, 255, 255);
+    padding: 25px;
+}
+
+nav a {
+    margin: 10px;
+    color: black;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #555;
+}
+    
+.ammar {
+    background-color: white;
+    display: flex;
+    padding-left: 10px;
+    
+}
+.hello{
+    background-color:white;
+    margin-bottom: 20px;
+    padding-left: 10px;
+}
+.information li {
+    margin-top: 35px;
+    justify-content: center;
+    padding-left: 130px;
+}
+.image  {;
+    margin-top: 20px;
+    
+}
+
+img {
+    border-radius: 10px;
+
+}
+.hobbies {
+    background-color: white;
+    padding-left: 10px;
+    margin: top 15px;
+}
+.photos{
+    background-color: rgb(248, 248, 247);
+    margin-top: 18px;
+    padding-left: 20px;
+    margin-right: 10px;
+ }
+.rights {
+    padding-left: 10px;
+    display:flex;
+    justify-content: center;
+    
+}
+
+
